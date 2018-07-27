@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_dan"
+            android:icon="@drawable/ic_menu_user"
+            android:title="Учетные данные" />
+        <item
+            android:id="@+id/nav_tarif"
+            android:icon="@drawable/ic_menu_tarif"
+            android:title="Тарифы" />
+        <item
+            android:id="@+id/nav_dogovor"
+            android:icon="@drawable/ic_menu_dogovor"
+            android:title="Договоры" />
+        <item
+            android:id="@+id/nav_request"
+            android:icon="@drawable/ic_menu_request"
+            android:title="Заявки" />
+        <item
+            android:id="@+id/nav_vzaim"
+            android:icon="@drawable/ic_menu_vzaim"
+            android:title="Взаиморасчеты"/>
+        <item
+            android:id="@+id/nav_messages"
+            android:icon="@drawable/ic_menu_message"
+            android:title="Мои сообщения"/>
+
+    </group>
+
+    <item android:title="Communicate">
+        <menu>
+
+        </menu>
+    </item>
+
+
+</menu>

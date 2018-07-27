@@ -1,0 +1,4 @@
+#Thu Jul 26 15:29:45 MSK 2018
+base.0=C\:\\Users\\ekarachinskaya\\AndroidStudioProjects\\TehnoPark\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\11
+path.0=classes.dex
+renamed.0=classes.dex
